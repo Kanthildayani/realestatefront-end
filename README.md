@@ -108,12 +108,4 @@ MIT License (c) 2025 Your Name
 
 ## 🔗 Repository
 
-Original project hosted at [Kanthildayani/realestatefront‑end](https://github.com/Kanthildayani/realestatefront-end) ([github.com][1], [github.com][2], [github.com][3])
-
----
-
-Let me know if you'd like to enhance the README with screenshots, deployment details, or technology specifics!
-
-[1]: https://github.com/Kanthildayani/realestatefront-end?utm_source=chatgpt.com "GitHub - Kanthildayani/realestatefront-end"
-[2]: https://github.com/Kanthildayani/realestatefront-end/blob/main/agents.html?utm_source=chatgpt.com "realestatefront-end/agents.html at main · Kanthildayani ... - GitHub"
-[3]: https://github.com/Yana-Gupta/real-estate-frontend?utm_source=chatgpt.com "front end for a real estate website - GitHub"
+Original project hosted at [Kanthildayani/realestatefront‑end](https://github.com/Kanthildayani/realestatefront-end) 
